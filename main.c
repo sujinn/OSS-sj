@@ -2,8 +2,9 @@
 
 int main()
 {
-
-printf("Open \n");
-return 0;
+  
+  printf("Open \n");
+  printf("First \n");
+    return 0;
 
 }
